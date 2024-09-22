@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Devanand M S
 - 👀 I’m interested in cybersecurity, machine learning, and web development.
-- 🌱 I’m currently learning advanced cybersecurity concepts and enhancing my skills in C++, Java, and Python.
+- 🌱 I’m currently learning advanced cybersecurity concepts and enhancing my skills in C, C++, Java, and Python.
 - 💞️ I’m looking to collaborate on projects related to cybersecurity, app development, and machine learning.
 - 📫 How to reach me: devanandms2004@gmail.com
 - 😄 Pronouns: He/Him
